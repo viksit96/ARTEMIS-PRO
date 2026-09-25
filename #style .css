@@ -1,0 +1,13 @@
+title{
+    color: red
+}
+<param name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <title>test of css</title>
+    <link rel="stylesheet" href="style.css">
+    <body>
+    p{
+        color: ::-moz-list-bullet
+    }
+        <p>without learning css i had jumped into it, thats funny</p>
+        </body>
